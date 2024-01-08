@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/braze-inc/braze-swift-sdk/releases">
-    <img src="https://badgen.net/badge/version/7.4.0/blue" alt="Version: 7.4.0">
+    <img src="https://badgen.net/badge/version/7.5.0/blue" alt="Version: 7.5.0">
   </a>
   <a href="#">
     <img src="https://badgen.net/badge/platforms/iOS%20%7C%20tvOS%20%7C%20Mac%20Catalyst/orange"
@@ -33,11 +33,11 @@ Follow the steps described in our [_Swift Package Manager integration_](https://
 
 Follow the steps described in our [_CocoaPods integration_](https://www.braze.com/docs/developer_guide/platform_integration_guides/swift/initial_sdk_setup/installation_methods/cocoapods/) article.
 
-In your podfile, for each statement referencing a Braze pod, add a `:podspec` statement, replacing `<version>` in the URL as follow:
+In your podfile, for each statement referencing a Braze pod, add a `:podspec` statement, replacing `<version>` in the URL as follows:
 
 ```ruby
-pod BrazeKit, :podspec => 'https://raw.githubusercontent.com/braze-inc/braze-swift-sdk-prebuilt-dynamic/<version>/BrazeKit.podspec'
-pod BrazeUI, :podspec => 'https://raw.githubusercontent.com/braze-inc/braze-swift-sdk-prebuilt-dynamic/<version>/BrazeUI.podspec'
+pod 'BrazeKit', :podspec => 'https://raw.githubusercontent.com/braze-inc/braze-swift-sdk-prebuilt-dynamic/<version>/BrazeKit.podspec'
+pod 'BrazeUI', :podspec => 'https://raw.githubusercontent.com/braze-inc/braze-swift-sdk-prebuilt-dynamic/<version>/BrazeUI.podspec'
 ...
 ```
 
