@@ -49,38 +49,38 @@ let package = Package(
   targets: [
     .binaryTarget(
       name: "BrazeKit",
-      url: "https://github.com/braze-inc/braze-swift-sdk-prebuilt-dynamic/releases/download/8.4.0/BrazeKit.zip",
-      checksum: "e1962eddb98c272589860c89fca7c0479040a54d9547559e47e56f79ce194d5c"
+      url: "https://github.com/braze-inc/braze-swift-sdk-prebuilt-dynamic/releases/download/9.0.0/BrazeKit.zip",
+      checksum: "37dee649d2f10a0cca0e00e45a429c2a89b763dee5c12bf6e5d741d84a46c1ed"
     ),
     .binaryTarget(
       name: "BrazeUI",
-      url: "https://github.com/braze-inc/braze-swift-sdk-prebuilt-dynamic/releases/download/8.4.0/BrazeUI.zip",
-      checksum: "d7080add040ec7ca025c3ebb47f08ebb53ad96af678c7ec878f6e7cfe60e0456"
+      url: "https://github.com/braze-inc/braze-swift-sdk-prebuilt-dynamic/releases/download/9.0.0/BrazeUI.zip",
+      checksum: "b9144904968bf52fd7e27b77df82d96642f99e455440e01b107e4cd5dffad7a6"
     ),
     .binaryTarget(
       name: "BrazeLocation",
-      url: "https://github.com/braze-inc/braze-swift-sdk-prebuilt-dynamic/releases/download/8.4.0/BrazeLocation.zip",
-      checksum: "974b19d13f300c3673e263ff6e1e9ed63ce21aa4fa214848798b624839f85c4b"
+      url: "https://github.com/braze-inc/braze-swift-sdk-prebuilt-dynamic/releases/download/9.0.0/BrazeLocation.zip",
+      checksum: "b8df35f33b9e0044ed9a92b586f6baf1e53cde4c423158f9dd076cfdd19fcd53"
     ),
     .binaryTarget(
       name: "BrazeNotificationService",
-      url: "https://github.com/braze-inc/braze-swift-sdk-prebuilt-dynamic/releases/download/8.4.0/BrazeNotificationService.zip",
-      checksum: "4aff70970154639ac2db328e3b687d58a0be1f1977be15ab9e666bb9a1928ffe"
+      url: "https://github.com/braze-inc/braze-swift-sdk-prebuilt-dynamic/releases/download/9.0.0/BrazeNotificationService.zip",
+      checksum: "b57bb3664dabd1380b558f816e3010b17d0df4e8dd5f34bcb491f59769c69953"
     ),
     .binaryTarget(
       name: "BrazePushStory",
-      url: "https://github.com/braze-inc/braze-swift-sdk-prebuilt-dynamic/releases/download/8.4.0/BrazePushStory.zip",
-      checksum: "1903a758d69be4267ae28e3d7fd6c29e84e41c14f4f792d6e9ac17b62409f137"
+      url: "https://github.com/braze-inc/braze-swift-sdk-prebuilt-dynamic/releases/download/9.0.0/BrazePushStory.zip",
+      checksum: "434b51bf29c6c5fdfcdce3d33207a568e364f563f5cb1f46261809b67c2a7477"
     ),
     .binaryTarget(
       name: "BrazeKitCompat",
-      url: "https://github.com/braze-inc/braze-swift-sdk-prebuilt-dynamic/releases/download/8.4.0/BrazeKitCompat.zip",
-      checksum: "211368dbc97fb7e26f322a9bf33f9ccef45f7110d305ddc87199f56bccaf63ce"
+      url: "https://github.com/braze-inc/braze-swift-sdk-prebuilt-dynamic/releases/download/9.0.0/BrazeKitCompat.zip",
+      checksum: "47e5def5ee85423f71b6f4bc8020358edad6e2c039a8d44930964ebb4cd8b80d"
     ),
     .binaryTarget(
       name: "BrazeUICompat",
-      url: "https://github.com/braze-inc/braze-swift-sdk-prebuilt-dynamic/releases/download/8.4.0/BrazeUICompat.zip",
-      checksum: "48a5728e95915792a61e312ec064c21569c14f68aaca127d993fff3a1b80891d"
+      url: "https://github.com/braze-inc/braze-swift-sdk-prebuilt-dynamic/releases/download/9.0.0/BrazeUICompat.zip",
+      checksum: "382467cc3d40a48ddeb21c0adfb82ee5f54199b45a03dbaf8e05a2d8b0aac816"
     ),
   ]
 )
