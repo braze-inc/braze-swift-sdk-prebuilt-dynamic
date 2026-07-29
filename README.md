@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/braze-inc/braze-swift-sdk/releases">
-    <img src="https://badgen.net/badge/version/17.0.0/blue" alt="Version: 17.0.0">
+    <img src="https://badgen.net/badge/version/18.0.0/blue" alt="Version: 18.0.0">
   </a>
   <a href="#">
     <img src="https://badgen.net/badge/platforms/iOS%20%7C%20visionOS%20%7C%20tvOS%20%7C%20Mac%20Catalyst/orange"
@@ -48,7 +48,7 @@ pod 'BrazeUI', :podspec => 'https://raw.githubusercontent.com/braze-inc/braze-sw
 | Sources and Static XCFrameworks       |                    [braze-inc/braze-swift-sdk] |                   ✓ |
 | Static XCFrameworks                   |    [braze-inc/braze-swift-sdk-prebuilt-static] |                   ✗ |
 | → **Dynamic XCFrameworks**            |   [braze-inc/braze-swift-sdk-prebuilt-dynamic] |                   ✗ |
-| Mergeable XCFrameworks (early access) | [braze-inc/braze-swift-sdk-prebuilt-mergeable] |                   ✗ |
+| Mergeable XCFrameworks                | [braze-inc/braze-swift-sdk-prebuilt-mergeable] |                   ✗ |
 
 [braze-inc/braze-swift-sdk]: https://github.com/braze-inc/braze-swift-sdk
 [braze-inc/braze-swift-sdk-prebuilt-static]: https://github.com/braze-inc/braze-swift-sdk-prebuilt-static
